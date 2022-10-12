@@ -1,0 +1,4 @@
+E:\study\Basic program\Size_of_datatype\Size_of_datatype\bin\Debug\Size_of_datatype.exe
+E:\study\Basic program\Size_of_datatype\Size_of_datatype\bin\Debug\Size_of_datatype.pdb
+E:\study\Basic program\Size_of_datatype\Size_of_datatype\obj\x86\Debug\Size_of_datatype.exe
+E:\study\Basic program\Size_of_datatype\Size_of_datatype\obj\x86\Debug\Size_of_datatype.pdb
