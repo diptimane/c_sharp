@@ -1,0 +1,4 @@
+E:\study\Basic program\Arithmetic_Operations\Arithmetic_Operations\bin\Debug\Arithmetic_Operations.exe
+E:\study\Basic program\Arithmetic_Operations\Arithmetic_Operations\bin\Debug\Arithmetic_Operations.pdb
+E:\study\Basic program\Arithmetic_Operations\Arithmetic_Operations\obj\x86\Debug\Arithmetic_Operations.exe
+E:\study\Basic program\Arithmetic_Operations\Arithmetic_Operations\obj\x86\Debug\Arithmetic_Operations.pdb
