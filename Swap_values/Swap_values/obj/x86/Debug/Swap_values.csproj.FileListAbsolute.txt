@@ -1,0 +1,4 @@
+E:\study\Basic program\Swap_values\Swap_values\bin\Debug\Swap_values.exe
+E:\study\Basic program\Swap_values\Swap_values\bin\Debug\Swap_values.pdb
+E:\study\Basic program\Swap_values\Swap_values\obj\x86\Debug\Swap_values.exe
+E:\study\Basic program\Swap_values\Swap_values\obj\x86\Debug\Swap_values.pdb
